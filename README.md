@@ -8,7 +8,7 @@ PISA stands for the Programme for International Student Assessment. Every few ye
 
 \*325 MB (2.6 GB uncompressed)
 
-## Summary of [Findings](https://github.com/fyasdani/pisa-exploration/blob/main/exploration.ipynb)
+## Summary of [Findings](https://raw.githack.com/fyasdani/pisa-exploration/main/exploration.html)
 
 This exploration's purpose is twofold: 1) to discover why the US underperforms at math, while its neighbor Canada excels—when the two countries are otherwise quite similar; and 2) to discover what the US can do to excel as well.
 
