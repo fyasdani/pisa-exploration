@@ -1,12 +1,14 @@
 # PISA 2012 Data Exploration
-## by fyasdani
+### by fyasdani
 
 
-## Dataset
+## [Dataset](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1581581520574000)\*
 
 PISA stands for the Programme for International Student Assessment. Every few years, since 1997, PISA has compared 15-year-old students from different countries based on their reading, math and science acumen. PISA is funded by the Organization for Economic Co-operation and Development. Their goal is to improve education policy internationally—for OECD and non-OECD countries alike. All are welcome to participate. This report explores the data from 2012—when 485,490 students from 65 countries participated. There are 635 features, of which 120 pertain to math.
 
-## Summary of Findings
+\*325 MB (2.6 GB uncompressed)
+
+## Summary of [Findings](https://github.com/fyasdani/pisa-exploration/blob/main/exploration.ipynb)
 
 This exploration's purpose is twofold: 1) to discover why the US underperforms at math, while its neighbor Canada excels—when the two countries are otherwise quite similar; and 2) to discover what the US can do to excel as well.
 
@@ -24,7 +26,7 @@ This exploration's purpose is twofold: 1) to discover why the US underperforms a
 - Math intention and self-concept are moderately correlated (0.39), as are self-concept and self-efficacy (0.53).
 - The theory of reasoned action (TRA) elegantly explains why some American students intend to do math, and others do not.
 
-## Key Insights for Presentation
+## Key Insights for [Presentation](https://raw.githack.com/fyasdani/pisa-exploration/main/explanation.slides.html#/)
 
 - 10% of math-oriented, US high-school students have no intention of going to college for math, or of pursuing a career in it, whereas Canada's numbers hold steady.
   - Nationwide, that amounts to *millions* of students forsaking math.
