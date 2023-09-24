@@ -22,6 +22,8 @@ quite similar; and 2) to discover what the US can do to excel as well.
 
 ![barplot comparing math performance of countries](added-analysis/math_perf.png)
 
+###### See [supplemental analysis](https://github.com/fyasdani/pisa-exploration/blob/main/added-analysis/supplemental.html) for more information.
+
 ## Summary of [Findings](https://raw.githack.com/fyasdani/pisa-exploration/main/exploration.html)
 
 -   American STEM students prioritize math over science at a rate greater than
