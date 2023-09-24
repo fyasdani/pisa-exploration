@@ -58,14 +58,16 @@ quite similar; and 2) to discover what the US can do to excel as well.
 
 ### Changes in Design
 
-1)  The redundant y-axes were removed from the subplotted figures using the following bit of code:
+1)  The redundant y-axes were removed from the subplotted figures using the
+    following bit of code:
 
 ```python
 ax2.set_yticks([])
 ax2.set_ylabel('')
 ```
 
-2)  Additionally, an annotation and a title were added to the histograms plot like so:
+2)  Additionally, an annotation and a title were added to the histograms plot
+    like so:
 
 ```python
 fig.suptitle('Distribution of Students by Intentions towards Math')
@@ -73,4 +75,5 @@ fig.text(0, 0, 'Note: Math Intention is an score reflecting students\''
                ' orientation towards or away from doing math.')
 ```
 
-3)  A similar note was added to the multivariate scatterplot, this time using `plt`.
+3)  A similar note was added to the multivariate scatterplot, this time using
+    `plt`.
