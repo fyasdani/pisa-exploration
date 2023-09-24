@@ -14,11 +14,15 @@ of which 120 pertain to math.
 
 \*325 MB (2.6 GB uncompressed)
 
-## Summary of [Findings](https://raw.githack.com/fyasdani/pisa-exploration/main/exploration.html)
+## Purpose
 
 This exploration's purpose is twofold: 1) to discover why the US underperforms
 at math, while its neighbor Canada excels—when the two countries are otherwise
 quite similar; and 2) to discover what the US can do to excel as well.
+
+![barplot comparing math performance of countries](added-analysis/math_perf.png)
+
+## Summary of [Findings](https://raw.githack.com/fyasdani/pisa-exploration/main/exploration.html)
 
 -   American STEM students prioritize math over science at a rate greater than
     that of their Canadian counterparts (+9%).
